@@ -1,4 +1,4 @@
-# macha VSCode Theme
+# matcha-colors  ~ (Matcha Colors VSCode Theme)
 
 This is Matcha colored VSCode Color Theme.
 
