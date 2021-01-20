@@ -6,6 +6,15 @@ This is Matcha colored VSCode Color Theme.
 
 https://github.com/juhaku/matcha-colors/releases/download/1.0.0/matcha-1.0.0.vsix
 
+Or build from sources with:
+
+```bash
+git clone https://github.com/juhaku/matcha-colors.git
+cd matcha-colors
+yarn install
+yarn vsce package
+```
+
 ## Install
 
 1. Open Code
