@@ -6,6 +6,13 @@ This is Matcha colored VSCode Color Theme.
 
 https://github.com/juhaku/matcha-colors/releases/download/1.0.0/matcha-1.0.0.vsix
 
+## Install
+
+1. Open Code
+2. Open Extensions
+3. Click "View More Actions" the three dots (...) -> Install from VSIX
+4. DONE!
+
 ## Screenshots
 
 #### GO
