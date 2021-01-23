@@ -4,7 +4,7 @@ This is Matcha colored VSCode Color Theme.
 
 ## Download
 
-https://github.com/juhaku/matcha-colors/releases/download/1.0.0/matcha-1.0.0.vsix
+https://github.com/juhaku/matcha-colors/releases/download/1.1.0/matcha-1.1.0.vsix
 
 Or build from sources with:
 
@@ -25,37 +25,33 @@ yarn vsce package
 ## Screenshots
 
 #### GO
-![GO](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_232710.png)
+![GO](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145536.png)
 
 #### TypeScript
-![TypeScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_233007.png)
+![TypeScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143158.png)
+
+![TypeScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143318.png)
 
 #### Yaml
-![Yaml](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_233351.png)
+![Yaml](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143445.png)
 
 #### JSON
-![JSON](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_233438.png)
+![JSON](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143400.png)
 
 #### Bash
-![Bash](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_233533.png)
+![Bash](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145504.png)
 
 #### JSX/TSX
-![JSX/TSX](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_233720.png)
+![JSX/TSX](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143827.png)
 
 #### Stylus
-![Stylus](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_233756.png)
-
-#### HTML
-![HTML](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_233939.png)
+![Stylus](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145108.png)
 
 #### CSS
-![CSS](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_234021.png)
+![CSS](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_144900.png)
 
 #### JavaScript
-![JavaScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_234113.png)
+![JavaScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_144549.png)
 
 #### Vue
-![Vue](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_234330.png)
-
-#### Java
-![Java](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210120_234411.png)
+![Vue](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145437.png)

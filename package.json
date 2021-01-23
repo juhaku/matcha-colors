@@ -2,7 +2,7 @@
     "name": "matcha",
     "displayName": "Matcha Colors",
     "description": "Matcha Colored VSCode Color Theme",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "juha",
     "author": {
         "name": "Juha Kukkonen"
@@ -16,7 +16,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "matcha",
+                "label": "Matcha Colors",
                 "uiTheme": "vs-dark",
                 "path": "./themes/matcha-color-theme.json"
             }
