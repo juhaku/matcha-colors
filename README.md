@@ -27,6 +27,9 @@ yarn vsce package
 #### GO
 ![GO](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145536.png)
 
+#### Rust
+![Rust](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210218_233538.png)
+
 #### TypeScript
 ![TypeScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143158.png)
 
@@ -51,7 +54,7 @@ yarn vsce package
 ![CSS](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_144900.png)
 
 #### JavaScript
-![JavaScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_144549.png)
+![JavaScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210218_234025.png)
 
 #### Vue
 ![Vue](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145437.png)
