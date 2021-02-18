@@ -309,8 +309,8 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#2bf1d4"
+				// "fontStyle": "italic",
+				"foreground": "#5fc279"
 			}
 		},
 		{
