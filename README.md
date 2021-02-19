@@ -28,7 +28,7 @@ yarn vsce package
 ![GO](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145536.png)
 
 #### Rust
-![Rust](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210218_233538.png)
+![Rust](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210219_143322.png)
 
 #### TypeScript
 ![TypeScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143158.png)
