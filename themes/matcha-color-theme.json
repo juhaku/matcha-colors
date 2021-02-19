@@ -61,6 +61,7 @@
 				"variable.other.constant",
 				"meta.var-single-variable.expr",
 				"variable.other.enummember",
+				"constant.other.caps.rust",
 			],
 			"settings": {
 				"foreground": "#648a6e"
@@ -102,7 +103,10 @@
 			"scope": [
 				"keyword",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				"keyword.other.rust",
+				"keyword.other.rust",
+				"keyword.other.fn.rust",
 			],
 			"settings": {
 				// "foreground": "#31c5a3"
@@ -164,7 +168,9 @@
 			"scope": [
 				"meta.block",
 				"variable.other",
-				"meta.var-single-variable.expr"
+				"meta.var-single-variable.expr",
+				"meta.use.rust",
+				"meta.attribute.rust",
 			],
 			"settings": {
 				// "foreground": "#79caa0"
