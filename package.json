@@ -13,6 +13,9 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "url": "https://github.com/juhaku/matcha-colors"
+    },
     "contributes": {
         "themes": [
             {

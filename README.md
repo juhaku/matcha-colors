@@ -25,36 +25,31 @@ yarn vsce package
 ## Screenshots
 
 #### GO
-![GO](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145536.png)
+![GO](./screenshots/Screenshot_20210523_161655.png)
 
 #### Rust
-![Rust](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210219_143322.png)
+![Rust](./screenshots/Screenshot_20210523_155757.png)
 
 #### TypeScript
-![TypeScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143158.png)
-
-![TypeScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143318.png)
+![TypeScript](./screenshots/Screenshot_20210523_161918.png)
 
 #### Yaml
-![Yaml](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143445.png)
+![Yaml](./screenshots/Screenshot_20210123_143445.png)
 
 #### JSON
-![JSON](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143400.png)
+![JSON](./screenshots/Screenshot_20210123_143400.png)
 
 #### Bash
-![Bash](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145504.png)
+![Bash](./screenshots/Screenshot_20210123_145504.png)
 
 #### JSX/TSX
-![JSX/TSX](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_143827.png)
+![JSX/TSX](./screenshots/Screenshot_20210523_162057.png)
 
 #### Stylus
-![Stylus](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145108.png)
+![Stylus](./screenshots/Screenshot_20210123_145108.png)
 
 #### CSS
-![CSS](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_144900.png)
-
-#### JavaScript
-![JavaScript](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210218_234025.png)
+![CSS](./screenshots/Screenshot_20210123_144900.png)
 
 #### Vue
-![Vue](https://github.com/juhaku/matcha-colors/blob/master/screenshots/Screenshot_20210123_145437.png)
+![Vue](./screenshots/Screenshot_20210523_163356.png)
