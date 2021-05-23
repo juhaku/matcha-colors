@@ -4,7 +4,7 @@ This is Matcha colored VSCode Color Theme.
 
 ## Download
 
-https://github.com/juhaku/matcha-colors/releases/download/1.1.2/matcha-1.1.2.vsix
+https://github.com/juhaku/matcha-colors/releases/download/1.2.0/matcha-1.2.0.vsix
 
 Or build from sources with:
 
