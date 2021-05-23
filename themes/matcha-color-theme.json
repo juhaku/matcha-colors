@@ -9,7 +9,7 @@
 		"editor.selectionBackground": "#2b5b5c58",
 		"editor.selectionHighlightBackground": "#1e52504a",
 		"editor.findMatchBackground": "#3fc4c015",
-		"editor.findMatchHighlightBackground": "#1e52504a",
+		"editor.findMatchHighlightBackground": "#3f997d4d",
 		"editor.wordHighlightBackground": "#3fc4c015",
 		"editor.wordHighlightStrongBackground": "#3fc4c04a",
 		"editor.hoverHighlightBackground": "#32504f79",
@@ -19,7 +19,9 @@
 		"editorSuggestWidget.highlightForeground": "#43d897",
 		"editorSuggestWidget.selectedBackground": "#2c473d",
 		"list.dropBackground": "#383b3d",
-		"list.activeSelectionBackground": "#2f5f54",
+		"list.activeSelectionBackground": "#2f5f5478",
+		"list.focusOutline": "#5a7c6c",
+		"list.filterMatchBackground": "#3f997d4d",
 		"menu.background": "#252526",
 		"menu.foreground": "#cccccc",
 		"sideBarSectionHeader.background": "#00000000",
@@ -28,6 +30,7 @@
 		"statusBarItem.remoteBackground": "#16825d",
 		"statusBarItem.remoteForeground": "#ffffff",
 		"tab.lastPinnedBorder": "#cccccc33",
+		"peekViewEditor.matchHighlightBackground":"#4de09e18"
 	},
 	"tokenColors": [
 		{
@@ -48,11 +51,13 @@
 				"string constant.other.placeholder",
 				"variable.other.readwrite.alias",
 				"meta.object-literal.key",
+				// "meta.function.call.rust"
 				//"variable.other.readwrite",
 				//"meta.var-single-variable.expr",
 			],
 			"settings": {
-				"foreground": "#57b68d"
+				// "foreground": "#57b68d"
+				"foreground": "#89d3b3"
 			}
 		},
 		{
@@ -62,6 +67,7 @@
 				"meta.var-single-variable.expr",
 				"variable.other.enummember",
 				"constant.other.caps.rust",
+				"meta.function.call.rust"
 			],
 			"settings": {
 				"foreground": "#648a6e"
@@ -174,7 +180,8 @@
 			],
 			"settings": {
 				// "foreground": "#79caa0"
-				"foreground": "#57b68d"
+				"foreground": "#77c4a2"
+				// "foreground": "#57b68d"
 			}
 		},
 		{
@@ -227,7 +234,9 @@
 				"entity.name.type.interface",
 			],
 			"settings": {
-				"foreground": "#396469"
+				// "foreground": "#396469"
+				// "foreground": "#396953"
+				"foreground": "#498b6d"
 			}
 		},
 		{
@@ -272,7 +281,8 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#396469"
+				// "foreground": "#396469"
+				"foreground": "#498b6d"
 			}
 		},
 		{
