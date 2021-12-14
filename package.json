@@ -2,7 +2,7 @@
     "name": "matcha",
     "displayName": "Matcha Colors",
     "description": "Matcha Colored VSCode Color Theme",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "juha",
     "author": {
         "name": "Juha Kukkonen"
@@ -26,6 +26,6 @@
         ]
     },
     "dependencies": {
-        "vsce": "^1.84.0"
+        "vsce": "^2.5.1"
     }
 }

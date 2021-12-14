@@ -8,11 +8,16 @@
 		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.selectionBackground": "#2b5b5c58",
 		"editor.selectionHighlightBackground": "#1e52504a",
+		// "editor.selectionHighlightBorder": "#aac8c371",
 		"editor.findMatchBackground": "#3fc4c015",
 		"editor.findMatchHighlightBackground": "#3f997d4d",
 		"editor.wordHighlightBackground": "#3fc4c015",
 		"editor.wordHighlightStrongBackground": "#3fc4c04a",
+		// "editor.wordHighlightBorder": "#aac8c371",
+		// "editor.wordHighlightStrongBorder": "#aac8c371",
 		"editor.hoverHighlightBackground": "#32504f79",
+		"editorCursor.foreground": "#afdbd267",
+		"editorCursor.background": "#c0e6df",
 		"editorIndentGuide.activeBackground": "#707070",
 		"editorIndentGuide.background": "#404040",
 		"input.placeholderForeground": "#a6a6a6",
@@ -32,6 +37,7 @@
 		"tab.lastPinnedBorder": "#cccccc33",
 		"peekViewEditor.matchHighlightBackground":"#4de09e18"
 	},
+	
 	"tokenColors": [
 		{
 			"name": "Comment",
