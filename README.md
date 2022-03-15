@@ -28,7 +28,7 @@ yarn vsce package
 ![GO](./screenshots/Screenshot_20210523_161655.png)
 
 #### Rust
-![Rust](./screenshots/Screenshot_20210523_155757.png)
+![Rust](./screenshots/Screenshot_20220315_193756.png)
 
 #### TypeScript
 ![TypeScript](./screenshots/Screenshot_20210523_161918.png)
