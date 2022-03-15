@@ -35,7 +35,13 @@
 		"statusBarItem.remoteBackground": "#16825d",
 		"statusBarItem.remoteForeground": "#ffffff",
 		"tab.lastPinnedBorder": "#cccccc33",
-		"peekViewEditor.matchHighlightBackground":"#4de09e18"
+		"peekViewEditor.matchHighlightBackground":"#4de09e18",
+		"editorInlayHint.background": "#37574a59",
+		"editorInlayHint.foreground": "#b1cfc3f3",
+		"editorInlayHint.typeForeground": "#b1cfc3f3",
+		"editorInlayHint.typeBackground": "#37574a59",
+		"editorInlayHint.parameterForeground": "#b1cfc3f3",
+		"editorInlayHint.parameterBackground": "#37574a59",
 	},
 	
 	"tokenColors": [
