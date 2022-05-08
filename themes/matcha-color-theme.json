@@ -42,6 +42,9 @@
 		"editorInlayHint.typeBackground": "#37574a59",
 		"editorInlayHint.parameterForeground": "#b1cfc3f3",
 		"editorInlayHint.parameterBackground": "#37574a59",
+		"editorBracketHighlight.foreground1": "#49f377",
+		"editorBracketHighlight.foreground2": "#8ce551",
+		"editorBracketHighlight.foreground3": "#079672",
 	},
 	
 	"tokenColors": [
